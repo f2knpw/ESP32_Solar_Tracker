@@ -18,7 +18,7 @@ sleep and wake up next time<br />
 <br />
 refer to my Hackaday's project page for full description : https://hackaday.io/project/185105-low-cost-solar-panel-solution-mppt-sun-tracker<br />
 
-Full version: https://github.com/f2knpw/ESP32_Solar_Tracker/blob/master/JP_ESP32_SolarTracker_OTA_Arduino.ino <br />
+Full version V2: https://github.com/f2knpw/ESP32_Solar_Tracker/blob/master/JP_ESP32_SolarTracker_OTA_Arduino.ino <br />
 Same functionalities as lite version + solar Tracker initialization and calibration via Android companion APP "panelOrientation V2".<br />
 For details refer to this log: https://hackaday.io/project/185105/log/210034-automating-the-solar-tracker-initialization <br />
 Android panelOrientation V2 App is here : https://github.com/f2knpw/solar_Panel_Orientation <br />

@@ -21,4 +21,5 @@ refer to my Hackaday's project page for full description : https://hackaday.io/p
 Full version: JP_ESP32_SolarTracker_OTA_Arduino.ino
 Same functionalities plus solar Tracker initialization and calibration via Android companion APP.
 Refer to this log: https://hackaday.io/project/185105/log/210034-automating-the-solar-tracker-initialization
+Android panelOrientation V2 App here : https://github.com/f2knpw/solar_Panel_Orientation
 

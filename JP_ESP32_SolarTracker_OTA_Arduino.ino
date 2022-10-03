@@ -771,7 +771,7 @@ void ComputeMotion()
         break;
       case morning:    // now go to sleep until tomorrow morning
         heliostatStatus = sleeping ;
-        sunRize = 2 * ((hours - 12) * 3600 + minutes * 60) ;        // sunRize duration symetrical around 12h and "now"
+        sunRize = 2 * ((hour() - 12) * 3600 + minute() * 60) ;        // sunRize duration symetrical around 12h and "now"
         timeToSleep = 86400 - sunRize;
         esp_sleep_enable_timer_wakeup(timeToSleep * uS_TO_S_FACTOR);
         Serial.print("timeToSleep : ");

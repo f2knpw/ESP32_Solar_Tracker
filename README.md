@@ -23,3 +23,8 @@ Same functionalities as lite version + solar Tracker initialization and calibrat
 For details refer to this log: https://hackaday.io/project/185105/log/210034-automating-the-solar-tracker-initialization <br />
 Android panelOrientation V2 App is here : https://github.com/f2knpw/solar_Panel_Orientation <br />
 
+Full version V3: https://github.com/f2knpw/ESP32_Solar_Tracker/blob/master/JP_ESP32_SolarTracker_OTA_Arduino.ino <br />
+Same functionalities as lite version + solar Tracker initialization and calibration via Android companion APP "panelOrientation V3".<br />
+For details refer to this log: https://hackaday.io/project/185105/log/210034-automating-the-solar-tracker-initialization <br />
+Android panelOrientation V3 App is here : https://github.com/f2knpw/solar_Panel_Orientation_V3 <br />
+
